@@ -10,4 +10,4 @@ const Header = ({ name }) => {
   );
 };
 
-export default Header;
+export default Header
